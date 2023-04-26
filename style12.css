@@ -1,0 +1,19 @@
+div {
+    width:300px;
+    height: 100px;
+    border:10px solid rgba(10, 222, 14, 0.79);
+    margin-left:20px; 
+    margin-right:20px; 
+    margin-bottom:20px; 
+    margin-top:20px; 
+}
+#Box2 {
+    width:300px;
+    padding: 20px;
+    height: 100px;
+    border:10px solid rgba(201, 214, 19, 0.92);
+    margin-left:20px; 
+    margin-right:20px; 
+    margin-bottom:20px; 
+    margin-top:20px; 
+}

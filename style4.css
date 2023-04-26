@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+#Header{
+    background-color: aquamarine;
+    margin: 15px;
+}
+#Qirmizi{
+    color: rgb(190, 42, 42);
+}
+.sag{
+    width: 900px;
+    margin: auto;
+}
+.sol{
+    float: left;
+}
+#Copyright{
+    margin-right: 150px;
+    background-color: gray
+}

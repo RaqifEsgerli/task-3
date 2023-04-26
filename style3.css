@@ -1,0 +1,24 @@
+#Text1{
+    color: yellowgreen;
+}
+#Text2{
+    color: red;
+    font-style: italic;
+}
+#Text3{
+    color: blue;
+    font-style:oblique;
+}
+#Text4{
+    background-color: yellow;
+}
+#Text5{
+    color:goldenrod;
+    font-style: initial;
+}
+h2{
+    color:rgb(33, 154, 43)
+}
+#Head{
+    color:rgb(122, 17, 122)
+}

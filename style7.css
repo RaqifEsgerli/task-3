@@ -1,0 +1,32 @@
+#solid{
+    border: solid 2px red ;
+    margin-bottom: 2px;
+}
+#double{
+    border: double 2px red ;
+    margin-bottom: 2px;
+}
+#groove{
+    border: groove 2px red ;
+    margin-bottom: 2px;
+}
+#ridge{
+    border: ridge 2px red ;
+    margin-bottom: 2px;
+}
+#inset{
+    border: inset 2px red ;
+    margin-bottom: 2px;
+}
+#outset{
+    border: outset 2px red ;
+    margin-bottom: 2px;
+}
+#dashed{
+    border: dashed 2px red ;
+    margin-bottom: 2px;
+}
+#dotted{
+    border: dotted 2px red ;
+    margin-bottom: 2px;
+}

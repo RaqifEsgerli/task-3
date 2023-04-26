@@ -1,0 +1,15 @@
+
+h3{
+    margin-right: 30px;
+}
+ul{
+    margin-left: 500px;
+}
+#center{
+    margin-right: 650px;
+}
+#box1{
+    width: 2048px;
+    height: 20px;
+    background-color: forestgreen;
+}

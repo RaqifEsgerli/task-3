@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+h1{
+    background-color: aqua;
+    padding: 20px;
+}
+.sol{
+    float:left;
+    width: 100px;
+    height: 150px;
+    background-color: blue
+}
+.sag{
+    float:right;
+    margin-right: 750px;
+}
+#Copyright{
+    margin-top:7px ;
+    background-color: rgba(165, 42, 42, 0.909)
+}

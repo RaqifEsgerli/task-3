@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+h1{
+    background-color: rgb(78, 77, 77);
+    color: white;
+    padding: 15px;
+}
+.sol{
+    margin-top: 20px;
+    float: left;
+}
+#box{
+    color: white;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(155, 152, 152);
+    
+}
+a{
+    color: red;
+}
+.sag{
+    margin-top: 20px;
+    margin-right: 250px;
+    float:right;
+}
